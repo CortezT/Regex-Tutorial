@@ -152,6 +152,6 @@ Let's start by looking at the regex pattern we'll be using as an example through
 
 ## Author
 
-This tutorial is brought to you by Trystan Cortez. Connect with me on GitHub @CortezT.
+This tutorial is brought to you by Trystan Cortez. Connect with me on GitHub [CortezT](https://github.com/CortezT).
 
 
