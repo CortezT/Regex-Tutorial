@@ -1,6 +1,7 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Welcome to this tutorial on regular expressions (regex). In this guide, we'll explore various components of regex patterns, providing detailed explanations and examples to help you understand how they work.
+
 
 ## Summary
 
